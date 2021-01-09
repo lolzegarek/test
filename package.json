@@ -20,4 +20,7 @@
   "collective": {
     "url": "https://opencollective.com/webpack"
   }
+  "engines": {
+    "node": "14.x"
+  },
 }
